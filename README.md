@@ -4,7 +4,8 @@
 Variables in Python are used to store data values. Python is dynamically typed, meaning you don't need to declare the type of a variable explicitly.
 
 ## Key Concepts
-- Dynamically typed language (no need to declare type)  
+- Dynamically typed language
+- No need to declare type  
 - Variables are references to objects in memory  
 - Naming conventions and best practices apply  
 - Types are assigned at runtime  
